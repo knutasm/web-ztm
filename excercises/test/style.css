@@ -1,0 +1,28 @@
+* {
+    font-family: Roboto;
+}
+
+
+h1 {
+    color: rgb(64, 131, 108);
+    text-align: center ;
+    cursor: pointer;
+} 
+
+li {
+    list-style: none;
+}
+
+nav {
+    display: inline-block;
+    padding: 20px 100px;
+    background-color: rgb(64, 131, 108);
+}
+
+.col {
+    display: flex;
+}
+
+p.subarticle {
+    flex-grow: 2;
+}
